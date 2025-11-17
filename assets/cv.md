@@ -1,8 +1,8 @@
 # Jeffer Alejandro Barragan Sanchez
 
-**Location:** Bogotá, Colombia
-**Phone:** +57 313 290 5754
-**Email:** leshzdev@gmail.com
+**Location:** Medellín, Colombia
+**Website:** [shztech.dev](https://shztech.dev)
+**Email:** me@shztech.dev
 **LinkedIn:** [linkedin.com/in/jeffbarragan](https://www.linkedin.com/in/jeffbarragan)
 **GitHub:** [github.com/leshz](https://github.com/leshz)
 
