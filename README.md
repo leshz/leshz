@@ -217,7 +217,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 💼 LinkedIn: **[linkedin.com/in/jeffbarragan](https://www.linkedin.com/in/jeffbarragan)**
 - 🐙 GitHub: **[github.com/leshz](https://github.com/leshz)**
 - 📍 Location: **Bogotá, Colombia**
-- 📱 Phone: **+57 313 290 5754**
 
 ---
 
